@@ -1,4 +1,9 @@
-# falcon
+# Falcon-MicroMouse
+
+# Introduction
+This repository contains the source code to an embedded system project 
+that is implemented from scratch for the UCSD and UCLA MicroMouse competition.
+
 # Directory
 Baseline_Func (Used as backup code)
  - This folder contains the baseline code for the mouse to run. It uses
@@ -10,9 +15,6 @@ Micromouse_test
  - the competition. 
 
 main
-- This is the fucked-up folder.
 - Used for reference.
 - Will be deprecated.
 
-# Project Structure
-// to-do
